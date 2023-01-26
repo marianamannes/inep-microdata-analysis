@@ -1,4 +1,4 @@
-# INEP Microdata Analysis
+# 📚 INEP Microdata Analysis
 
 INEP provides [microdata](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem) from the Brazilian ENEM test, which contains information about participants, such as age, gender and income, as well as the result obtained in the test. In this project, my goal was to analyze the data from the last year released (2021) of the ENEM test through the Python language.
 
